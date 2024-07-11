@@ -32,7 +32,7 @@ const CharacterPage = () => {
   if (error) {
     return (
       <Alert variant="danger" dismissible>
-        <Alert.Heading>Aw jeez! You got an error!</Alert.Heading>
+        <Alert.Heading>Aww jeez! You got an error!</Alert.Heading>
         <p>{error.message}</p>
       </Alert>
     );

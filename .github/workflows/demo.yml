@@ -1,4 +1,4 @@
-name: React CI/CD Test
+name: React CI/CD Testing
 on: push
 jobs:
   build:
